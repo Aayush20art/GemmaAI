@@ -1,0 +1,8 @@
+
+{
+  "name": "SocialSnap AI",
+  "description": "An AI-powered social media caption generator that creates platform-specific captions and hashtags for Instagram and LinkedIn based on your uploaded photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
