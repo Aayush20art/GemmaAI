@@ -2,7 +2,7 @@
 
 It is a modern **AI-powered social media caption generator** that transforms images into engaging, platform-ready captions for Instagram and LinkedIn.  
 Built with a vibrant **pink & yellow UI**, it combines clean UX with powerful AI to boost creativity and productivity.
-
+Demo: https://gemma-ai-teal.vercel.app/
 ---
 
 ## ✨ Features
@@ -49,6 +49,8 @@ src/
 ├── services/
 │   └── geminiService.ts
 └── index.tsx
+
+---
 
 🚀 Getting Started
 1️⃣ Clone the Repository
