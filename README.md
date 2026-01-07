@@ -99,12 +99,6 @@ Portfolio / interview showcase project
 
 🎥 Framer Motion animations
 
-👨‍💻 Author
-
-Aayush Sharma
-Final Year B.Tech (Information Technology)
-Passionate about Frontend, AI tools & UI/UX design
-
 ⭐ Support
 
 If you found this project helpful:
