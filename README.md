@@ -24,7 +24,7 @@ Demo: https://gemma-ai-teal.vercel.app/
 - Clear call-to-action buttons
 - Card-based result layout
 - Mobile-responsive grid system
-- Minimal yet engaging micro-interactions
+- Minimal yet engaging micro-interaction
 
 ---
 
@@ -69,7 +69,7 @@ VITE_GEMINI_API_KEY=your_api_key_here
 4️⃣ Run the Project
 npm run dev
 
-📱 Responsiveness & Accessibility
+📱 Responsiveness and accessability
 
 Fully responsive (mobile, tablet, desktop)
 
