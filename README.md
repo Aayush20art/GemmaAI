@@ -77,7 +77,7 @@ Accessible color contrast
 
 Clear focus states and readable typography
 
-🎯 Use Cases
+🎯 Use cases
 
 Content creators
 
