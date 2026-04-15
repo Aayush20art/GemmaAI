@@ -31,7 +31,7 @@ Demo: https://gemma-ai-teal.vercel.app/
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **React (TypeScript)**
+- **React (typeScript)**
 - **Tailwind CSS**
 - **Lucide Icons**
 
