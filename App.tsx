@@ -155,7 +155,7 @@ const App: React.FC = () => {
 
             {status === AppStatus.GENERATING && (
               <p className="font-semibold text-pink-500 animate-pulse">
-                Generating captions with AI…
+                Generating captions with AI
               </p>
             )}
 
