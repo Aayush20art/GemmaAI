@@ -1,6 +1,6 @@
 # 🌸 GemmaAI
 
-> **AI-powered social media caption generator** that transforms images into engaging, platform-ready captions for Instagram and Linkedin.
+> **AI-powered social media caption generator** that transforms images into engaging, platform-ready captions for Instagram and LinkedIn.
 
 Built with a vibrant **pink & yellow UI**, GemmaAI combines clean UX with powerful AI to boost creativity and productivity.
 
